@@ -1,6 +1,6 @@
 # Namd_Entity_Recognition
 Named entity recognition (NER)  is a natural language processing technique that identifies named entities in a text and classifies them into predefined categories. 
-Used Tagging schema: BIOES tagging
+Used Tagging schema: BIO tagging
 
 # Tags representation
 ![image](https://github.com/kishan2910/Namd_Entity_Recognition/assets/70774888/eaeb0bed-89a6-4ca1-957f-fdb0f3672c3b)
